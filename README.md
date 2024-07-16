@@ -31,4 +31,5 @@ EXPOSE 8899
 ENTRYPOINT ["./game_boot.sh"]
 '''
 ## 分布式部署
-![image](https://github.com/user-attachments/assets/a2cb6858-fa99-435d-9775-a16f226ff90e)
+![image](https://github.com/user-attachments/assets/bf608104-7234-441e-bf44-45831a1a95c6)
+
